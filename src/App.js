@@ -19,10 +19,9 @@ function App() {
 
        I lived in Faisalabad  */}
 
-       I lived in Faisalabad
+      My name is Hamza Ali
 
-       I am a student 
-
+      I lived in FSD 
         <a
           className="App-link"
           href="https://reactjs.org"
