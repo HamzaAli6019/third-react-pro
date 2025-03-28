@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        Master is a good personality
+        {/* Master is a good personality
 
 
         My Name is Hamza Ali 
@@ -17,7 +17,12 @@ function App() {
 
        I am a student 
 
-       I lived in Faisalabad 
+       I lived in Faisalabad  */}
+
+       I lived in Faisalabad
+
+       I am a student 
+
         <a
           className="App-link"
           href="https://reactjs.org"
