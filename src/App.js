@@ -9,11 +9,15 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        Master is a very overclever person
+        Master is a good personality
 
 
         My Name is Hamza Ali 
-        I lived in Faisalabad
+        
+
+       I am a student 
+
+       I lived in Faisalabad 
         <a
           className="App-link"
           href="https://reactjs.org"
