@@ -19,7 +19,12 @@ function App() {
 
        I lived in Faisalabad  */}
 
-      My name is Hamza Ali
+      My Name Is Ahmad Hassan 
+
+      I am a Devops Engineer 
+
+      I am a Software Developer
+      
 
       My Name is Hamid Raza 
 
