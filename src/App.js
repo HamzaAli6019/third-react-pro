@@ -21,11 +21,13 @@ function App() {
 
       My name is Hamza Ali
 
-      My Name is Asad Ibqal 
+      My Name is Hamid Raza 
 
-      I am from Pakistan
+      I am from Pakistan 
 
       I lived in FSD 
+
+      My Name is Waleed Anjum I am from Faisalabad.
         <a
           className="App-link"
           href="https://reactjs.org"
