@@ -21,6 +21,10 @@ function App() {
 
       My name is Hamza Ali
 
+      My Name is Asad Ibqal 
+
+      I am from Pakistan
+
       I lived in FSD 
         <a
           className="App-link"
